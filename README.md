@@ -1,2 +1,1 @@
-# milkeyway
-this is x-ray application
+This is the file that is edited on local branch
